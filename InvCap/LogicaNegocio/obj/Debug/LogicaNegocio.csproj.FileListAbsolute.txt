@@ -1,0 +1,12 @@
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\LogicaNegocio\bin\Debug\Entidades.dll
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\LogicaNegocio\bin\Debug\AccesoDatos.dll.config
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\LogicaNegocio\bin\Debug\Entidades.pdb
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete

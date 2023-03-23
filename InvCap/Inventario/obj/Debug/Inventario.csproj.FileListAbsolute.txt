@@ -1,0 +1,46 @@
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\Inventario\bin\Debug\Inventario.exe
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\Inventario\bin\Debug\Inventario.pdb
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\Inventario\bin\Debug\Entidades.dll
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\Inventario\bin\Debug\LogicaNegocio.dll
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\Inventario\bin\Debug\AccesoDatos.dll
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\Inventario\bin\Debug\Entidades.pdb
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\Inventario\bin\Debug\LogicaNegocio.pdb
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\Inventario\bin\Debug\AccesoDatos.pdb
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\Inventario\bin\Debug\AccesoDatos.dll.config
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\Inventario\obj\Debug\Inventario.csproj.AssemblyReference.cache
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\Inventario\obj\Debug\Inventario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\Inventario\obj\Debug\Inventario.Principal.FrmUsuario.resources
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\Inventario\obj\Debug\Inventario.csproj.GenerateResource.cache
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\Inventario\obj\Debug\Inventario.csproj.CopyComplete
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\Inventario\obj\Debug\Inventario.exe
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\Inventario\obj\Debug\Inventario.Principal.FrmLogin.resources
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\Inventario\obj\Debug\Inventario.Permisos.Permisos.resources
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\Inventario\obj\Debug\Inventario.Principal.Inicio.resources
+C:\Users\Ilde Tavarez\Desktop\InvCap Ilde\InvCap\Inventario\obj\Debug\Inventario.Productos.RegistrarProductos.resources
+\\DESKTOP-PPTKEH7\InvCap Ilde\InvCap\Inventario\bin\Debug\Inventario.exe.config
+\\DESKTOP-PPTKEH7\InvCap Ilde\InvCap\Inventario\bin\Debug\Inventario.exe
+\\DESKTOP-PPTKEH7\InvCap Ilde\InvCap\Inventario\bin\Debug\Entidades.dll
+\\DESKTOP-PPTKEH7\InvCap Ilde\InvCap\Inventario\bin\Debug\LogicaNegocio.dll
+\\DESKTOP-PPTKEH7\InvCap Ilde\InvCap\Inventario\bin\Debug\AccesoDatos.dll
+\\DESKTOP-PPTKEH7\InvCap Ilde\InvCap\Inventario\bin\Debug\Entidades.pdb
+\\DESKTOP-PPTKEH7\InvCap Ilde\InvCap\Inventario\bin\Debug\LogicaNegocio.pdb
+\\DESKTOP-PPTKEH7\InvCap Ilde\InvCap\Inventario\bin\Debug\AccesoDatos.pdb
+\\DESKTOP-PPTKEH7\InvCap Ilde\InvCap\Inventario\bin\Debug\AccesoDatos.dll.config
+\\DESKTOP-PPTKEH7\InvCap Ilde\InvCap\Inventario\obj\Debug\Inventario.csproj.AssemblyReference.cache
+\\DESKTOP-PPTKEH7\InvCap Ilde\InvCap\Inventario\obj\Debug\Inventario.csproj.SuggestedBindingRedirects.cache
+\\DESKTOP-PPTKEH7\InvCap Ilde\InvCap\Inventario\obj\Debug\Inventario.Permisos.Permisos.resources
+\\DESKTOP-PPTKEH7\InvCap Ilde\InvCap\Inventario\obj\Debug\Inventario.Principal.FrmLogin.resources
+\\DESKTOP-PPTKEH7\InvCap Ilde\InvCap\Inventario\obj\Debug\Inventario.Principal.FrmUsuario.resources
+\\DESKTOP-PPTKEH7\InvCap Ilde\InvCap\Inventario\obj\Debug\Inventario.Principal.Inicio.resources
+\\DESKTOP-PPTKEH7\InvCap Ilde\InvCap\Inventario\obj\Debug\Inventario.Productos.RegistrarProductos.resources
+\\DESKTOP-PPTKEH7\InvCap Ilde\InvCap\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+\\DESKTOP-PPTKEH7\InvCap Ilde\InvCap\Inventario\obj\Debug\Inventario.csproj.GenerateResource.cache
+\\DESKTOP-PPTKEH7\InvCap Ilde\InvCap\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+\\DESKTOP-PPTKEH7\InvCap Ilde\InvCap\Inventario\obj\Debug\Inventario.csproj.CopyComplete
+\\DESKTOP-PPTKEH7\InvCap Ilde\InvCap\Inventario\obj\Debug\Inventario.exe
+\\DESKTOP-PPTKEH7\InvCap Ilde\InvCap\Inventario\obj\Debug\Inventario.pdb
+\\DESKTOP-PPTKEH7\InvCap Ilde\InvCap\Inventario\bin\Debug\Inventario.pdb
